@@ -3,3 +3,13 @@ D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.Assemb
 D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.AssemblyInfo.cs
 D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.csproj.CoreCompileInputs.cache
 D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.sourcelink.json
+D:\modul6_1302220022\modul6_1302220022\bin\Debug\net8.0\modul6_1302220022.exe
+D:\modul6_1302220022\modul6_1302220022\bin\Debug\net8.0\modul6_1302220022.deps.json
+D:\modul6_1302220022\modul6_1302220022\bin\Debug\net8.0\modul6_1302220022.runtimeconfig.json
+D:\modul6_1302220022\modul6_1302220022\bin\Debug\net8.0\modul6_1302220022.dll
+D:\modul6_1302220022\modul6_1302220022\bin\Debug\net8.0\modul6_1302220022.pdb
+D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.dll
+D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\refint\modul6_1302220022.dll
+D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.pdb
+D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\modul6_1302220022.genruntimeconfig.cache
+D:\modul6_1302220022\modul6_1302220022\obj\Debug\net8.0\ref\modul6_1302220022.dll
